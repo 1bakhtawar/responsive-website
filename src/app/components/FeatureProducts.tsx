@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 const FeatureProducts = () => {
   return (
-    <div>
+  <div>
         <main className='md:gap-4 pt-10 md:ml-5 md:mb-32 sm:ml-4'>
             <div className='md:flex gap-4 md:mb-32'>
         <div className='w-full'>
