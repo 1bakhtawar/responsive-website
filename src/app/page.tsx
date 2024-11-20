@@ -1,9 +1,10 @@
-import FeatureProducts from "./components/FeatureProducts";
+import Herosection from "./herosection/page"
+
 
 export default function Home() {
   return (
     <div>
-      <FeatureProducts />
+      <Herosection />
     </div>
   );
 }

@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-const FeatureProducts = () => {
+const herosection = () => {
   return (
   <div>
         <main className='md:gap-4 pt-10 md:ml-5 md:mb-32 sm:ml-4'>
@@ -71,4 +71,4 @@ const FeatureProducts = () => {
   )
 }
 
-export default FeatureProducts
+export default herosection
